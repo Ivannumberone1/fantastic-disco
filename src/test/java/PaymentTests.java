@@ -12,7 +12,7 @@ import static com.codeborne.selenide.Selectors.byXpath;
 import static com.codeborne.selenide.Selenide.*;
 
 @ExtendWith({SoftAssertsExtension.class})
-//Ваня, привет!
+//Ваня, привет! GHBDTN!!!
 public class PaymentTests {
     @Test
     void positive_rub() {
